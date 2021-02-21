@@ -1,5 +1,5 @@
 # Slipbox
-A research tool for academics
+A research and note-taking tool for academics
 
 
 ## About
